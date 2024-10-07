@@ -1,0 +1,1 @@
+This is an example text file made with vim (not nano). It is for demonstration purposes for cmpinf0010 lab on version control.
